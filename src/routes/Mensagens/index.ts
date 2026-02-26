@@ -1,0 +1,1 @@
+export { Mensagens } from './Mensagens';

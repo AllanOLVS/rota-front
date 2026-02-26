@@ -1,0 +1,1 @@
+export { CadastroPaciente } from './CadastroPaciente';

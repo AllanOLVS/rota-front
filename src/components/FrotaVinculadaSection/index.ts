@@ -1,0 +1,1 @@
+export { FrotaVinculadaSection } from './FrotaVinculadaSection';

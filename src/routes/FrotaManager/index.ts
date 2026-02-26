@@ -1,0 +1,1 @@
+export { FrotaManager } from './FrotaManager';

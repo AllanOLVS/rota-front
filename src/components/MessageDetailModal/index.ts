@@ -1,0 +1,1 @@
+export { MessageDetailModal } from './MessageDetailModal';

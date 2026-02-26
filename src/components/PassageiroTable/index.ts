@@ -1,0 +1,1 @@
+export { PassageiroTable } from './PassageiroTable';

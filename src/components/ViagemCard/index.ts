@@ -1,0 +1,1 @@
+export { ViagemCard } from './ViagemCard';

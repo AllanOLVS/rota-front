@@ -1,0 +1,1 @@
+export { LockedCard } from './LockedCard';
